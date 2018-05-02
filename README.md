@@ -1,0 +1,2 @@
+# alytalosovellus
+C#-Ohjelmointikurssin harjoitustyö
